@@ -1,3 +1,4 @@
 # OS-Assignment
 Change free list management in xv6
-The data structure used is - Doublly linked list.
+<hr>
+ The data structure used is <h3>Doublly linked list. </h3>
